@@ -1,0 +1,2 @@
+ifconfig $INTERFACE down
+
